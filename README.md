@@ -63,7 +63,7 @@ Visualizations included:
 
 For a detailed walkthrough of the decisions made during the project, including data understanding, cleaning steps, exploratory insights, model evaluation comparisons, and final conclusions. Refer to the separate file:
 
-📄 [`INSIGHTS_AND_LEARNINGS.md`](./INSIGHTS_AND_LEARNINGS.md)
+📄 [`Insights.md`](./Insights.md)
 
 This file reflects the thought process behind the project and serves as a technical and business summary of the entire workflow
 
